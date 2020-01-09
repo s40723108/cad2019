@@ -56,10 +56,10 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
 
-### KMOLab
+### 四設二甲
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40723108](https://github.com/s40723108/cad2019)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
