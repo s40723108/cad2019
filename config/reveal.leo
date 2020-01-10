@@ -126,7 +126,7 @@ Created by [40723108](https://github.com/s40723108/cad2019)
 </t>
 <t tx="leo.20180902120523.19">## 啟用 CMSiMDE 中的網誌系統
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y45842q-ZC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nQWRwLBfsjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
